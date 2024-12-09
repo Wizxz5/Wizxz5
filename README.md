@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Wizxz5
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning alot of things
-- 💞️ I’m looking to collaborate on the interesting projects
-- 📫 How to reach me phailinkeovongkod@2003@gmail.com
-- 😄 Pronouns: she/her
+- 👋 Hi, I’m luna or @Wizxz5
+- - 😄 Pronouns: she/her
+- 🌱 I’m interested to learn variety of things
+- 📫 How to reach me:
+- Gmail: phailinkeovongkod@2003@gmail.com
+- 
+
 
 <!---
 ✨ special ✨ repository because its `README.md` .
